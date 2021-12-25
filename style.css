@@ -1,0 +1,33 @@
+body {
+    background-color: #454545;
+    color: white;
+    text-align:center;
+}
+.container2 {
+ margin: 10px;
+}
+.container5 ,.container6 {
+    padding:10px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px 
+    
+}
+
+.submit , .reset{
+    padding:10px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px 
+    
+}
+
+#input{
+    padding:10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+
+    
